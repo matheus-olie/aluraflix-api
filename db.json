@@ -1,0 +1,101 @@
+{
+    "videos": [
+      {
+        "id": "1",
+        "titulo": "Alura - O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+        "categoria": "frontend",
+        "imagem": "https://img.youtube.com/vi/ZY3-MFxVdEw/0.jpg",
+        "video": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&t=13s",
+        "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio!"
+      },
+      {
+        "id": "2",
+        "titulo": "Alura - O que é React JS? #HipstersPontoTube",
+        "categoria": "frontend",
+        "imagem": "https://img.youtube.com/vi/6IuQUgeDPg0/0.jpg",
+        "video": "https://www.youtube.com/watch?v=6IuQUgeDPg0",
+        "descricao": "Afinal, o que é React JS? Neste vídeo, Vanessa Tonini e Mario Souto explicam isto para você falando sobre como esta ferramenta surgiu, para que ela serve, quais são suas aplicações e relação com outras ferramentas e como começar a trabalhar com ele."
+      },
+      {
+        "id": "3",
+        "titulo": "Alura - Aprenda a transformar design em código com o Figma | #AluraMais",
+        "categoria": "frontend",
+        "imagem": "https://img.youtube.com/vi/sup2hlWm5yE/0.jpg",
+        "video": "https://www.youtube.com/watch?v=sup2hlWm5yE",
+        "descricao": "Se você é Dev Front-End e quer aprender como utilizar o Figma, vem com a gente! 😎"
+      },
+      {
+        "id": "4",
+        "titulo": "Alura - O que é o Java? #HipstersPontoTube",
+        "categoria": "backend",
+        "imagem": "https://img.youtube.com/vi/90NcVNsKGik/0.jpg",
+        "video": "https://www.youtube.com/watch?v=90NcVNsKGik&list=PLh2Y_pKOa4UfsZfAT5ylSsbcEjpguxoBI",
+        "descricao": "O bom, velho e onipresente Java! É fácil de aprender? Como é programar em Java? Roberta e Paulo debatem sobre suas experiências com essa linguagem querida e famosa neste vídeo."
+      },
+      {
+        "id": "5",
+        "titulo": "Alura - O que faz uma desenvolvedora Back-end? com Juliana Amoasei | #HipstersPontoTube",
+        "categoria": "backend",
+        "imagem": "https://img.youtube.com/vi/fiPfvylj6rk/0.jpg",
+        "video": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+        "descricao": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira? 🤔 A Juliana Amoasei responde tudo isso pra você no vídeo! Confere aí! "
+      },
+      {
+        "id": "6",
+        "titulo": "Alura - Linguagens e ferramentas usadas em Ciência de Dados | Universo Data Science #03",
+        "categoria": "backend",
+        "imagem": "https://img.youtube.com/vi/h83e1aAM5xQ/0.jpg",
+        "video": "https://www.youtube.com/watch?v=h83e1aAM5xQ",
+        "descricao": "Neste episódio vamos conhecer melhor quais ferramentas e linguagens de programação são as mais utilizadas em Data Science 📊"
+      },
+      {
+        "id": "7",
+        "titulo": "Alura - Desmistificando Mobile- Por onde eu começo? #01",
+        "categoria": "mobile",
+        "imagem": "https://img.youtube.com/vi/2z6f8VN_Pro/0.jpg",
+        "video": "https://www.youtube.com/watch?v=2z6f8VN_Pro",
+        "descricao": "A Websérie “Desmistificando o mobile” vêm aí para simplificar com exemplos práticos vários assuntos envolvendo o mundo dos aplicativos de celular e neste primeiro episódio vamos partir, literalmente, do começo, por onde começar a estudar sobre o mundo dos apps? Os instrutores da escola de mobile da Alura nos ajudam com essa tarefa 😉"
+      },
+      {
+        "id": "8",
+        "titulo": "Alura - Desenvolvimento Android #HipstersPontoTube",
+        "categoria": "mobile",
+        "imagem": "https://img.youtube.com/vi/fWscDFHKgw8/0.jpg",
+        "video": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+        "descricao": "Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais ferramentas do desenvolvimento mobile, como colocar sua aplicação no ar e mais! "
+      },
+      {
+        "id": "9",
+        "titulo": "Alura - Híbridos: Flutter e React Native | Desmistificando Mobile - Ep #4",
+        "categoria": "mobile",
+        "imagem": "https://img.youtube.com/vi/vf9P_PycgRw/0.jpg",
+        "video": "https://www.youtube.com/watch?v=vf9P_PycgRw",
+        "descricao": "Depois de entender sobre as linguagens de programação nativas, Helô vai conversar com a Natalia Thiel e o Caio Couto sobre Flutter e React Native, que são linguagens híbridas e que possibilitam outros caminhos para os aplicativos de celular 🤩"
+      },
+      {
+        "id": "10",
+        "titulo": "Alura - Tutorial FRAMER: Como CRIAR um SITE com IA?",
+        "categoria": "IAs Generativas",
+        "imagem": "https://img.youtube.com/vi/IXCejzBC21Q/0.jpg",
+        "video": "https://www.youtube.com/watch?v=IXCejzBC21Q",
+        "descricao": "D👩‍💻 💻 Explore este tutorial Framer para criar um site inovador com IA! Aprenda passo a passo como incorporar inteligência artificial em seu projeto."
+      },
+      {
+        "id": "11",
+        "titulo": "Alura - Tutorial: Como CRIAR um CHATBOT com a API do Google GEMINI? | IAs Generativas",
+        "categoria": "IAs Generativas",
+        "imagem": "https://img.youtube.com/vi/rGchz3aKFt8/0.jpg",
+        "video": "https://www.youtube.com/watch?v=rGchz3aKFt8",
+        "descricao": "🤖 Passo a passo de como criar um chatbot com a API do Google Gemini | Inteligência Artificial na prática"
+      },
+      {
+        "id": "12",
+        "titulo": "Alura - Tutorial SUNO: como criar MÚSICA com INTELIGÊNCIA ARTIFICIAL | IAs Generativas",
+        "categoria": "IAs Generativas",
+        "imagem": "https://img.youtube.com/vi/4SwzGdOw0HE/0.jpg",
+        "video": "https://www.youtube.com/watch?v=4SwzGdOw0HE",
+        "descricao": "🤖 Passo a passo de como criar uma música com IA | Inteligência Artificial na prática"
+      }
+    ]
+  }
+  
