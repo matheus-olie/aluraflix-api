@@ -13,7 +13,7 @@
         "titulo": "Alura - O que é React JS? #HipstersPontoTube",
         "categoria": "frontend",
         "imagem": "https://img.youtube.com/vi/6IuQUgeDPg0/0.jpg",
-        "video": "https://www.youtube.com/watch?v=6IuQUgeDPg0",
+        "video": "https://www.youtube.com/embed/6IuQUgeDPg0?si=sQlmSASeWLMz8rGZ",
         "descricao": "Afinal, o que é React JS? Neste vídeo, Vanessa Tonini e Mario Souto explicam isto para você falando sobre como esta ferramenta surgiu, para que ela serve, quais são suas aplicações e relação com outras ferramentas e como começar a trabalhar com ele."
       },
       {
@@ -21,7 +21,7 @@
         "titulo": "Alura - Aprenda a transformar design em código com o Figma | #AluraMais",
         "categoria": "frontend",
         "imagem": "https://img.youtube.com/vi/sup2hlWm5yE/0.jpg",
-        "video": "https://www.youtube.com/watch?v=sup2hlWm5yE",
+        "video": "https://www.youtube.com/embed/sup2hlWm5yE?si=CyhBhsLBO1A8udWe",
         "descricao": "Se você é Dev Front-End e quer aprender como utilizar o Figma, vem com a gente! 😎"
       },
       {
@@ -29,7 +29,7 @@
         "titulo": "Alura - O que é o Java? #HipstersPontoTube",
         "categoria": "backend",
         "imagem": "https://img.youtube.com/vi/90NcVNsKGik/0.jpg",
-        "video": "https://www.youtube.com/watch?v=90NcVNsKGik&list=PLh2Y_pKOa4UfsZfAT5ylSsbcEjpguxoBI",
+        "video": "https://www.youtube.com/embed/90NcVNsKGik?si=uWtDn2ra8on7N2yH",
         "descricao": "O bom, velho e onipresente Java! É fácil de aprender? Como é programar em Java? Roberta e Paulo debatem sobre suas experiências com essa linguagem querida e famosa neste vídeo."
       },
       {
@@ -37,7 +37,7 @@
         "titulo": "Alura - O que faz uma desenvolvedora Back-end? com Juliana Amoasei | #HipstersPontoTube",
         "categoria": "backend",
         "imagem": "https://img.youtube.com/vi/fiPfvylj6rk/0.jpg",
-        "video": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+        "video": "https://www.youtube.com/embed/fiPfvylj6rk?si=acj4Z2ov3TDhZIiI",
         "descricao": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira? 🤔 A Juliana Amoasei responde tudo isso pra você no vídeo! Confere aí! "
       },
       {
@@ -45,7 +45,7 @@
         "titulo": "Alura - Linguagens e ferramentas usadas em Ciência de Dados | Universo Data Science #03",
         "categoria": "backend",
         "imagem": "https://img.youtube.com/vi/h83e1aAM5xQ/0.jpg",
-        "video": "https://www.youtube.com/watch?v=h83e1aAM5xQ",
+        "video": "https://www.youtube.com/embed/h83e1aAM5xQ?si=3RuYtnohjHHkpcn6",
         "descricao": "Neste episódio vamos conhecer melhor quais ferramentas e linguagens de programação são as mais utilizadas em Data Science 📊"
       },
       {
@@ -53,7 +53,7 @@
         "titulo": "Alura - Desmistificando Mobile- Por onde eu começo? #01",
         "categoria": "mobile",
         "imagem": "https://img.youtube.com/vi/2z6f8VN_Pro/0.jpg",
-        "video": "https://www.youtube.com/watch?v=2z6f8VN_Pro",
+        "video": "https://www.youtube.com/embed/2z6f8VN_Pro?si=eO-quctOkw1VbSAu",
         "descricao": "A Websérie “Desmistificando o mobile” vêm aí para simplificar com exemplos práticos vários assuntos envolvendo o mundo dos aplicativos de celular e neste primeiro episódio vamos partir, literalmente, do começo, por onde começar a estudar sobre o mundo dos apps? Os instrutores da escola de mobile da Alura nos ajudam com essa tarefa 😉"
       },
       {
@@ -61,7 +61,7 @@
         "titulo": "Alura - Desenvolvimento Android #HipstersPontoTube",
         "categoria": "mobile",
         "imagem": "https://img.youtube.com/vi/fWscDFHKgw8/0.jpg",
-        "video": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+        "video": "https://www.youtube.com/embed/fWscDFHKgw8?si=tOEUKlKgKrDdN0n8",
         "descricao": "Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais ferramentas do desenvolvimento mobile, como colocar sua aplicação no ar e mais! "
       },
       {
@@ -69,7 +69,7 @@
         "titulo": "Alura - Híbridos: Flutter e React Native | Desmistificando Mobile - Ep #4",
         "categoria": "mobile",
         "imagem": "https://img.youtube.com/vi/vf9P_PycgRw/0.jpg",
-        "video": "https://www.youtube.com/watch?v=vf9P_PycgRw",
+        "video": "https://www.youtube.com/embed/vf9P_PycgRw?si=UmYjB_FUX9Yo1Qv2",
         "descricao": "Depois de entender sobre as linguagens de programação nativas, Helô vai conversar com a Natalia Thiel e o Caio Couto sobre Flutter e React Native, que são linguagens híbridas e que possibilitam outros caminhos para os aplicativos de celular 🤩"
       },
       {
@@ -77,7 +77,7 @@
         "titulo": "Alura - Tutorial FRAMER: Como CRIAR um SITE com IA?",
         "categoria": "ias generativas",
         "imagem": "https://img.youtube.com/vi/IXCejzBC21Q/0.jpg",
-        "video": "https://www.youtube.com/watch?v=IXCejzBC21Q",
+        "video": "https://www.youtube.com/embed/IXCejzBC21Q?si=6-LApL3FfX_ydm1r",
         "descricao": "D👩‍💻 💻 Explore este tutorial Framer para criar um site inovador com IA! Aprenda passo a passo como incorporar inteligência artificial em seu projeto."
       },
       {
@@ -85,7 +85,7 @@
         "titulo": "Alura - Tutorial: Como CRIAR um CHATBOT com a API do Google GEMINI? | IAs Generativas",
         "categoria": "ias generativas",
         "imagem": "https://img.youtube.com/vi/rGchz3aKFt8/0.jpg",
-        "video": "https://www.youtube.com/watch?v=rGchz3aKFt8",
+        "video": "https://www.youtube.com/embed/rGchz3aKFt8?si=Gh0I_XPImNN9iuer",
         "descricao": "🤖 Passo a passo de como criar um chatbot com a API do Google Gemini | Inteligência Artificial na prática"
       },
       {
@@ -93,7 +93,7 @@
         "titulo": "Alura - Tutorial SUNO: como criar MÚSICA com INTELIGÊNCIA ARTIFICIAL | IAs Generativas",
         "categoria": "ias generativas",
         "imagem": "https://img.youtube.com/vi/4SwzGdOw0HE/0.jpg",
-        "video": "https://www.youtube.com/watch?v=4SwzGdOw0HE",
+        "video": "https://www.youtube.com/embed/4SwzGdOw0HE?si=GmCIuZ8BihT7jvvo",
         "descricao": "🤖 Passo a passo de como criar uma música com IA | Inteligência Artificial na prática"
       }
     ]
